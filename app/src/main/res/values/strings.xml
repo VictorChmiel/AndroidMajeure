@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidMajeure</string>
+    <string name="enter_room">Enter Room Number</string>
+    <string name="ok">OK</string>
+    <string name="light">Light Level :   </string>
+    <string name="lightonoff">Light ON/OFF</string>
+    <string name="image_content_description">Image Content Description</string>
+
+
+
+
+</resources>
